@@ -99,6 +99,7 @@
                 android:text="@string/add_shoe_button"
                 android:textColor="@color/white_100" />
 
+
             <Button
                 android:id="@+id/buttonCancel"
                 android:layout_width="match_parent"
